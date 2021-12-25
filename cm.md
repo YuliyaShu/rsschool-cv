@@ -1,5 +1,5 @@
 # Yuliya Shulgan
-![Yuliya's photo](/photo.jpg)
+![Yuliya's photo](/photo_small.jpg)
 ### Contacts
 **Email** juliette7373@gmail.com
 **Phone number** 375291301419
