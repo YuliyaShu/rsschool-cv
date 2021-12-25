@@ -15,6 +15,7 @@ function multiply(a, b){
   return a * b
 }
 ```
+[Project CV](https://github.com/YuliyaShu/rsschool-cv/tree/gh-pages)
 ### Work experience
 Banker 2006-2021. Department of Payment Cards, Department of Developing Digital Products, Bank's Processing Center. Working in Agile teams as Product Owner. Jira user.
 ### Education
