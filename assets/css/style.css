@@ -224,7 +224,7 @@ body {
 
 
 .container {
-    max-width: 1440px;
+    max-width: 1000px;
     margin: 0 auto;
     justify-content: center;
     
@@ -337,32 +337,14 @@ body {
     opacity: 0.50;
    }
 
-   .email-icon li::before {
-       width: 10px;
-       height: 10px;
-       content: '';
-       list-style-image: url(assets/img/png-clipart-computer-icons-email-email-miscellaneous-angle.png);
-       background-repeat: no-repeat;
-       background-size: cover;
+   .email-icon, .discord-icon, .github-icon {
+       height: 15px;
+       margin-right: 5px;
+       
+
     }
 
-    .discord-icon li::before {
-        width: 10px;
-        height: 10px;
-        content: '';
-        list-style-image: url(assets/img/png-clipart-discord-computer-icons-logo-social-media-social-media-logo-smiley-thumbnail.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-     }
 
-     .github-icon li:before {
-        width: 10px;
-        height: 10px;
-        content: '';
-        list-style-image: url(./assets/img/png-transparent-github-computer-icons-github-cdr-cat-like-mammal-carnivoran.png);
-        background-repeat: no-repeat;
-        background-size: cover;
-     }
 
      .contacts {
         list-style-type: none;
@@ -375,11 +357,12 @@ body {
         font-weight: 100;
         text-transform: lowercase;
         letter-spacing: 1px;
-        text-align: center;
+        justify-content: center;
+        align-self: center;
      }
 
      .contacts:hover {
-        font-size: 30px;
+        
         color: #426347;
      }
 
@@ -433,6 +416,8 @@ body {
         margin-left: 0px;
         padding-left: 0px;
         align-self: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
         
       }
 
@@ -471,12 +456,13 @@ body {
         justify-content: right;
         margin-left: 0px;
         list-style-type: none;
-        align-items: center;
+        align-items: baseline;
         
       }
 
       .nav-img-footer {
         height: 15px;
         margin-left: 5px;
+        opacity: 0.5;
 
       }
