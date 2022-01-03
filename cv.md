@@ -1,8 +1,7 @@
 # Yuliya Shulgan
-![Yuliya's photo](/photo_small.jpg)
+![Yuliya's photo](assets/img/photo_small.jpg)
 ### Contacts
 **Email** juliette7373@gmail.com
-**Phone number** 375291301419
 **Discord** YuliyaShu#1524
 **GitHub** [YuliyaShu](https://github.com/YuliyaShu)
 ### About me
@@ -24,5 +23,6 @@ Banker 2006-2021. Department of Payment Cards, Department of Developing Digital 
 * Streamline Language School, Minsk, Belarus - 2014, 2021.
 ### English language
 B2 Upper-Intermediate (EPAM test).
+* Staying in London for three month in 2005. Native speaking.
 * Belarusian State Linguistic University, 2007, requalification - English Language.
-* Streamline Language School, Minsk, Belarus - 2014, 2021.
+* Streamline Language School, Minsk, Belarus - 2014, 2021, 2022.
