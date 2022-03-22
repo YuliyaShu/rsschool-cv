@@ -2,6 +2,9 @@
 ![Yuliya's photo](assets/img/photo_small.jpg)
 ### Contacts
 **Email** juliette7373@gmail.com
+
+![Yuliya's photo](/photo_small.jpg)
+
 **Discord** YuliyaShu#1524
 **GitHub** [YuliyaShu](https://github.com/YuliyaShu)
 ### About me
