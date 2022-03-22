@@ -274,14 +274,14 @@ body {
 
 
 .nav-link:hover {
-    font-size: 30px;
-    color: #426347;
+    
+    color: #002e07;
     
 }
 
 .nav-link-logo:hover {
-    font-size: 60px;
-    color: #426347;
+    
+    color: #002e07;
 }
 
 .section {
@@ -361,9 +361,23 @@ body {
         align-self: center;
      }
 
-     .contacts:hover {
+     .certificate {
+      list-style-type: none;
+      text-decoration: none;
+      color:grey;
+      font-size: 15px;
+      font-weight: 600;
+      transition: color 0.5s;
+      font-family: "Montserrat", sans-serif;
+      
+      letter-spacing: 1px;
+      justify-content: center;
+      align-self: center;
+   }
+
+     .contacts:hover, .certificate:hover {
         
-        color: #426347;
+        color: #002e07;
      }
 
      .summary-flex {
@@ -395,20 +409,26 @@ body {
       }
 
       .section-img-logos {
-        width: 400px;
-        justify-content: center;
+        width: 30%;
+        
         align-self: center;
-        opacity: 0.7;
+        opacity: 0.5;
         margin-top: 0px;
+        
       }
 
-      .section-img-logos:hover {
-          background-image: url(assets/img/javascript-html5-and-css-html-css-js-badge-115630076742dl7bdlbaf.png);
-          width: 400px;
-          justify-content: center;
-          align-self: center;
-          opacity: 0.7;
-          margin-top: 0px;
+      .section-img-codewars {
+        width: 100%;
+        justify-content: center;
+      }
+     
+      .section-img-logos:hover, .section-img-codewars:hover {
+        opacity: 1;
+      }
+
+      .img-certificate {
+        width: 100%;
+        cursor: pointer;
       }
 
       .code {
@@ -434,7 +454,7 @@ body {
       .tick::before {
         content: "\2713"; /* Insert content that looks like bullets */
         padding-right: 8px;
-        color: #426347;
+        color: #002e07;
       }
 
       .nav-link-footer {
@@ -466,3 +486,37 @@ body {
         opacity: 0.5;
 
       }
+
+      .wrapper {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 5px;
+      }
+
+      .photo-project {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+      }
+
+      .img-project {
+        width: 100%;
+        cursor: pointer;
+        
+      }
+
+      figure {
+        
+        margin-block-start: 0em;
+        margin-block-end: 0em;
+        margin-inline-start: 20px;
+        margin-inline-end: 20px;
+      }
+
+      .name-project {
+        margin-bottom: 0px;
+      }
+     
+
+      
