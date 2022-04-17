@@ -219,13 +219,13 @@ body {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    width: 100vw;
 }
 
 
 .header, .main, .footer {
   max-width: 1280px;
 }
+
 
 .container {
     
@@ -234,12 +234,18 @@ body {
     
   }
 
+  .nav {
+    margin-top: 20px;
+  }
+
 .nav-list {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     margin-left: 0px;
     flex-wrap: wrap;
+    
+    
     
 }
 
