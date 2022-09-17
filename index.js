@@ -36,7 +36,6 @@ function toggleMenu() {
   navBurgerMenuLink2.classList.toggle('open');
   navBurgerMenuLink3.classList.toggle('open');
   navBurgerMenuLink4.classList.toggle('open');
-  navBurgerMenuLink5.classList.toggle('open');
   navBurgerMenuLink6.classList.toggle('open');
   navBurgerMenuLink7.classList.toggle('open');
   navBurgerMenuLink8.classList.toggle('open');
@@ -49,7 +48,6 @@ navBurgerMenuLink1.addEventListener('click', toggleMenu);
 navBurgerMenuLink2.addEventListener('click', toggleMenu);
 navBurgerMenuLink3.addEventListener('click', toggleMenu);
 navBurgerMenuLink4.addEventListener('click', toggleMenu);
-navBurgerMenuLink5.addEventListener('click', toggleMenu);
 navBurgerMenuLink6.addEventListener('click', toggleMenu);
 navBurgerMenuLink7.addEventListener('click', toggleMenu);
 navBurgerMenuLink8.addEventListener('click', toggleMenu);
