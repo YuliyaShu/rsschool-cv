@@ -260,6 +260,20 @@ hr {
   justify-content: center;
 }
 
+.skills-list-soft-skills {
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+.skills-list-soft-skills li {
+  list-style-type: none;
+}
+
+.bold {
+  font-weight: 700;
+}
+
 ul {
   margin-block-start: 0em;
   margin-block-end: 0em;
